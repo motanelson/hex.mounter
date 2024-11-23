@@ -1,0 +1,5 @@
+; This is a comment
+00 1F A0 5B ; Partial line with 4 bytes
+3C 4D 5E 6F 7A 8B 9C AD BE CF ; Full line with 10 bytes
+EF FF ; Line with 2 bytes
+; Another comment
